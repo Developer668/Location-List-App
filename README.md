@@ -1,6 +1,6 @@
 # Location List App
 
-A simple Android application built with Java that allows users to create, view, and manage a list of locations. This project was developed as a hands-on learning experience to understand the fundamentals of Android development.
+A simple Android application built with Java that allows users to create, view, and manage a list of locations. This project was developed as a hands-on learning experience to understand the fundamentals of Android development. There is a usage of Google Maps API so you will require to get an API ID to use it. I also learned how to use API effectively as well using this applicaiton.
 
 ## Features
 
